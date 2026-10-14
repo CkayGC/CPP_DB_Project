@@ -1,9 +1,0 @@
-﻿  main.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  SQLiteDB.vcxproj -> C:\Users\cknud\Desktop\Portfolio\Projects\SQLiteDB\SQLiteDB\x64\Release\SQLiteDB.exe
-  C:\Users\cknud\Desktop\Portfolio\Projects\SQLiteDB\SQLiteDB\SQLiteDB\Vendor\sqlite\dll\sqlite3.dll
-  C:\Users\cknud\Desktop\Portfolio\Projects\SQLiteDB\SQLiteDB\SQLiteDB\Vendor\sqlite\dll\vec0.dll
-  2 File(s) copied
