@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SQLiteDB/SQLiteDB.vcxproj" Id="212bc13f-9b54-4448-a6ca-068668f4bf22" />
+</Solution>

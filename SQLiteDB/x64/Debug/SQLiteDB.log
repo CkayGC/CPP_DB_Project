@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\cknud\Desktop\Portfolio\Projects\SQLiteDB\SQLiteDB\SQLiteDB\src\main.cpp(98,13): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  SQLiteDB.vcxproj -> C:\Users\cknud\Desktop\Portfolio\Projects\SQLiteDB\SQLiteDB\x64\Debug\SQLiteDB.exe
+  0 File(s) copied
